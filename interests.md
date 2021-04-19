@@ -6,6 +6,10 @@ title: Interests
 
 ## News
 
+- Apr. 2021: Dr. Wu gives a remote presentation on deep reinforcement learning for College of Computer Science-SiChuan University.
+
+- Feb. 2021: We present our work "Inductive Graph Neural Networks for Spatiotemporal Kriging" on AAAI 2021 conference.
+
 - Dec. 2020: Our paper "Inductive Graph Neural Networks for Spatiotemporal Kriging" has been accepted for presentation at the AAAI-21.
 
 - Oct. 2020: Dr. Wu gives a remote talk on tensor and its application on traffic data analysis for Shenzeng University with [Dr. Linchao Li's group](https://ce.szu.edu.cn/info/1093/3215.htm).
