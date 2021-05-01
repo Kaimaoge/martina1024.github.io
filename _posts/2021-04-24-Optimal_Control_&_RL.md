@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Blog/index.html
+permalink: /Blog/index2.html
 title: Optimal Control & RL
 ---
 
