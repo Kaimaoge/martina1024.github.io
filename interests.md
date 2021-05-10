@@ -6,7 +6,7 @@ title: Interests
 
 ## News
 
-- Apr. 2021: Dr. Wu gives a remote presentation on deep reinforcement learning for College of Computer Science-SiChuan University.
+- Apr. 2021: Dr. Wu gives a remote presentation on deep reinforcement learning for College of Computer Science, Sichuan University.
 
 - Feb. 2021: We present our work "Inductive Graph Neural Networks for Spatiotemporal Kriging" on AAAI 2021 conference.
 
