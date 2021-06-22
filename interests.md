@@ -6,6 +6,12 @@ title: Interests
 
 ## News
 
+- Jun. 2021: A special issue is launched on [electronic](https://www.mdpi.com/journal/electronics/special_issues/Intelligent_Transportation_Automated_Vehicle), please contribute your papers! 
+
+- Jun. 2021: Dr. Wu gives a talk at Tsinghua AIR.
+
+- May. 2021: A special issue is launched on [Journal of Transportation Engineering and Information(Chinese)](https://mp.weixin.qq.com/s?__biz=MzkxMDE5MjgzMw==&mid=2247485979&idx=1&sn=7d41fc11f1b7ac9171853db677e6e57d&chksm=c12e73b5f659faa3436b6d006687d6c3351194c0e5edc0e1ec62dd5606b60b05a612d1183325&mpshare=1&scene=1&srcid=0525PQbPhv87rdx2IDYDpuMg&sharer_sharetime=1624327075492&sharer_shareid=c0d9dd6fd2e65c5c8799b403f422b8df&exportkey=AaAjETaj8HhW%2BuGqjRgd8KM%3D&pass_ticket=Ul5ZeL%2BTVbyqSVu8mpSl1jv8IUf0MxvQtu5DsJj6yvxwYrtP8FEzOd%2FUNz6%2BeXOY&wx_header=0#rd), please contribute your papers! 
+
 - Apr. 2021: Dr. Wu gives a remote presentation on deep reinforcement learning for College of Computer Science, Sichuan University.
 
 - Feb. 2021: We present our work "Inductive Graph Neural Networks for Spatiotemporal Kriging" on AAAI 2021 conference.
