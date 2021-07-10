@@ -5,6 +5,7 @@ title: Interests
 ---
 
 ## News
+- Jul. 2021: A paper entitled "[Rail transit OD-matrix completion via manifold regularized tensor factorization](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/itr2.12099)" has been published in IET Intelligent Transport Systems. 
 
 - Jun. 2021: A special issue is launched on [electronic](https://www.mdpi.com/journal/electronics/special_issues/Intelligent_Transportation_Automated_Vehicle), please contribute your papers! 
 
